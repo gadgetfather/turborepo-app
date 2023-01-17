@@ -6,7 +6,7 @@ import { add } from "math-helper-rolling-thunder";
 export default function Web() {
   return (
     <div>
-      <h1>Web 34</h1>
+      <h1>Web 34m</h1>
       <h2>{add(1, 2)}</h2>
       <Button />
     </div>
